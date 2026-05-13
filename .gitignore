@@ -1,0 +1,11 @@
+# 敏感数据 - API Key 和 platformToken
+~/.deepseek_widget_config.json
+
+# PyInstaller 构建产物
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
